@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twisted/axiom/commit/02a14c39ec30d5e00403eb50fdeb86106c1f488d",
       "git:hexsha": "02a14c39ec30d5e00403eb50fdeb86106c1f488d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T14:52:52.454197+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/axiom/commit/b8fdb5874feef57b87aee3832f34f705ae25c7a6",
